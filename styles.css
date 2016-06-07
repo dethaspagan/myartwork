@@ -1,0 +1,52 @@
+.heading
+{
+    color: red;
+    font-size: 50px;
+    text-align: center;
+}
+.description
+{
+    color: darkgrey;
+    font-size: 15px;
+    text-align: center;
+	border-style: solid;
+	border-color:black;
+	width: 600px;
+	background-color:lightblue;
+}
+
+.image
+{
+    width: 200px;
+    position: relative;
+    left: 20px;
+}
+.image2
+{
+    width: 50px;
+    position: relative;
+    left: 20px;
+}
+
+
+.chart {
+    width: 500px;
+    height: 1000px;
+}
+
+.circ1 {
+    stroke: black; 
+    fill: white;
+    stroke-width: 5;
+}
+.rec {
+	opacity: 0.7;
+    stroke: black; 
+    fill: white;
+    stroke-width: 5;
+}
+.poly {
+    stroke: blue; 
+    fill: white;
+    stroke-width: 5;
+}
